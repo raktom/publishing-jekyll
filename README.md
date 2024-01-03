@@ -1,2 +1,2 @@
 # publishing-jekyll
-Website put with ajekyll
+Website put with a jekyll
